@@ -6,7 +6,7 @@ This repository contains the second module of the **42 C++ Piscine**, focused on
 
 ## Objectives
 
-- Deepen understanding of stack vs heap memory
+- Deepen understanding of stack vs heap memory.
 - Work with **references and pointers**
 - Practice **dynamic allocation** (`new` / `delete`)
 - Use classes with encapsulation
